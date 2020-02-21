@@ -19,5 +19,5 @@ For this project we were tasked with completing:
 5. Matrix Factorization - we used Singular Value Decomposition to decompose our user-article matrix into U, S, and Vt matrices. We explored various levels of latent factors and made predictions on test data by recomposing the matrices.
 
 ## Summary of Files and Folders
-The main item of interest here is the Recommendations_with_IBM Jupyter notebook. You can view the .ipynb file or the .html file.
+The main item of interest here is the Recommendations_with_IBM Jupyter notebook. You can view the .ipynb file or download the .html file and open it in your browser. To view the Plotly plots, please view .html file.
 This notebook contains all of the data exploration, analysis, and article recommendations as required by the project.
